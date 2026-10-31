@@ -2,17 +2,15 @@
 
 **Turn Boring 3:00 AM Server & Smart-Home Logs into a Chilling Ghost Story**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Phantom_Logs-9333ea?style=for-the-badge)](https://your-hosted-link.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Phantom_Logs-9333ea?style=for-the-badge)](https://phantom-logs.vercel.app)
 
 ---
 
 ## 📸 Demo Preview
 
-> _(Replace `./screenshots/demo.png` below with your actual screenshot path or image URL)_
+![Phantom Logs Demo Screenshot](./frontend\public\demo.png)
 
-![Phantom Logs Demo Screenshot](./screenshots/demo.png)
-
-🔗 **Try it Live:** [https://your-hosted-link.vercel.app](https://your-hosted-link.vercel.app)
+🔗 **Try it Live:** [https://phantom-logs.vercel.app](https://phantom-logs.vercel.app)
 
 ---
 
